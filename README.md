@@ -1,5 +1,5 @@
 # Machine Learning Road
-Machine Learning Resources, Practice and Research.
+Machine Learning and Agentic AI Resources, Practice and Research.
 
 ## Disclamier
 
@@ -64,8 +64,18 @@ If the author of ebook found your intelligence proprietary violated because of c
 | Machine Learning Yearning | Andrew Ng | [[译]](https://github.com/yanshengjia/ml-road/blob/master/resources/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E7%A7%98%E7%B1%8D.pdf)[[在线阅读]](https://accepteddoge.github.io/machine-learning-yearning-cn/docs/home/) | Machine Learning |
 | Foundations of Machine Learning | Mehryar Mohri | [[PDF]](https://github.com/yanshengjia/ml-road/blob/master/resources/Foundations%20of%20Machine%20Learning%20(2nd%20Edition).pdf)[[HomePage]](https://cs.nyu.edu/~mohri/mlbook/) | Machine Learning |
 
-## Papers
+## Agentic AI
 
-### NLP
-
-* Tixier A J P. Notes on Deep Learning for NLP[J]. arXiv preprint arXiv:1808.09772, 2018. [[Link]](https://arxiv.org/pdf/1808.09772.pdf)
+| Resource Name                                                | Type                       | Authors/Instructors                                           | Link                                                         | Category                              |
+| :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- |
+| LangChain for LLM Application Development                    | Course                     | Harrison Chase, Andrew Ng                                    | [[DeepLearning.AI]](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) | LLM Applications, Agents              |
+| Building Systems with the ChatGPT API                       | Course                     | Isa Fulford, Andrew Ng                                       | [[DeepLearning.AI]](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) | LLM Applications, Agents              |
+| Strands Agents                                               | SDK                        | Strands                                                      | [[Homepage]](https://strandsagents.com/latest/) | Multi-Agent Systems                   |
+| AI Agents in LangGraph                                       | Course                     | Harrison Chase, Rotem Weiss                                  | [[DeepLearning.AI]](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) | Agent Frameworks                      |
+| ChatGPT Prompt Engineering for Developers                   | Course                     | Isa Fulford, Andrew Ng                                       | [[DeepLearning.AI]](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) | Prompt Engineering                    |
+| ReAct: Synergizing Reasoning and Acting in Language Models  | Paper                      | Yao et al.                                                   | [[arXiv]](https://arxiv.org/abs/2210.03629) | Reasoning, Planning                   |
+| Toolformer: Language Models Can Teach Themselves to Use Tools | Paper                    | Schick et al.                                                | [[arXiv]](https://arxiv.org/abs/2302.04761) | Tool Use                              |
+| Deep Dive into LLMs like ChatGPT                            | Course                     | Andrej Karpathy                                              | [[YouTube]](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=14s) | LLM Fundamentals                      |
+| Build your first Agentic AI app step-by-step with Strands Agents & MCP | Course                     | AWS                                                          | [[YouTube]](https://www.youtube.com/watch?v=aijS9fWB854) | Agentic AI Applications               |
+| Building Effective AI Agents                                | Blog                       | Anthropic                                       | [[Anthropic]](https://www.anthropic.com/research/building-effective-agents) | Agent Design, Best Practices         |
+| How We Built Our Multi-Agent Research System                | Blog                       | Anthropic                                    | [[Anthropic]](https://www.anthropic.com/engineering/built-multi-agent-research-system) | Multi-Agent Systems, Architecture     |
